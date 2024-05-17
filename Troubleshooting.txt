@@ -1,0 +1,13 @@
+1. Importing Excel :
+   If you are having importing excel problems, add a new asset through
+   software only and export it, now check if your data exported is in
+   the format that the importing excel is in.
+2. Do not ever cut and paste any file inside the software folder
+   somewhere else as all the the files and folders are connected through
+   each other in the same format as they are in the software folder.
+3. If software is not working :
+   Make sure that the software folder(AMS) is placed in "c://xampp/htdocs".
+4. If Chart function is not opening :
+   Make sure you are connected to internet as the chart is shown through
+   google charts api.
+ 

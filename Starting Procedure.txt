@@ -1,0 +1,7 @@
+1. Download and Install Xampp software from the internet (https://www.apachefriends.org/xampp-files/8.1.1/xampp-windows-x64-8.1.1-2-VS16-installer.exe)
+2. Start Xampp control panel on your machine and start "Apache" and "MySQL" (After Starting, don't close the xampp control panel).
+3. Place the AMS folder to "c://xampp/htdocs" folder.
+4. Now go to any web browser and start "http://localhost/phpmyadmin/"
+5. Create a new database named user and import users.sql file inside phpmyadmin.
+6. Create another new database named cms and import all 3 files (cms_category,cms_posts,cms_user) that are present in folder "CMS/database sql" inside phpmyadmin.
+7. Open the folder Website in the AMS folder and start Website.html file to start accessing the software.
